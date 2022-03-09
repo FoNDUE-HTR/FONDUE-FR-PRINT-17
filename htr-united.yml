@@ -2,19 +2,19 @@ schema: https://htr-united.github.io/schema/2021-10-15/schema.json
 title: FONDUE-FR-PRINT-17
 url: https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-17
 authors:
-  - name: Gabay
-    surname: Simon
-    roles:
-      - transcriber
-      - project-manager
-      - quality-control
+- name: Gabay
+  surname: Simon
+  roles:
+  - transcriber
+  - project-manager
+  - quality-control
 description: ' Transcriptions of French 17th c. prints '
 project-name: FoNDUE
 project-website: https://github.com/FoNDUE-HTR/
 language:
-  - fra
+- fra
 script:
-  - Latn
+- Latn
 script-type: only-typed
 time:
   notBefore: '1600'
@@ -23,7 +23,16 @@ hands:
   count: '1'
   precision: exact
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
 transcription-guidelines: SegmOnto
+volume:
+- metric: characters
+  count: 69180
+- metric: files
+  count: 69
+- metric: lines
+  count: 1899
+- metric: regions
+  count: 247
