@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1791" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1790" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1789" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1788" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1787" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1786" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1785" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1784" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/>
+    <OtherTag ID="BT2321" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1791" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1790" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1789" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1788" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1787" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1786" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1785" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1784" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/>
     <OtherTag ID="LT608" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT609" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT610" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT611" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
   </Tags>
   
@@ -35,14 +35,14 @@
           
           
           <TextLine ID="eSc_line_25d0d10d"
-                    
+                    TAGREFS="LT608"
                     BASELINE="825 72 850 79" 
                     HPOS="819"
                     VPOS="44"
                     WIDTH="34"
                     HEIGHT="47">
             <Shape><Polygon POINTS="824 71 829 44 853 54 849 77 844 91 819 84"/></Shape>
-	    <String CONTENT="87"
+	    <String CONTENT=""
                     HPOS="819"
                     VPOS="44"
                     WIDTH="34"
@@ -69,7 +69,7 @@
                     WIDTH="300"
                     HEIGHT="37">
             <Shape><Polygon POINTS="328 72 328 40 370 43 384 42 398 43 414 41 431 43 456 43 504 43 628 43 627 72 627 77 328 77"/></Shape>
-	    <String CONTENT="EPISTRE II."
+	    <String CONTENT=""
                     HPOS="328"
                     VPOS="40"
                     WIDTH="300"
@@ -86,7 +86,7 @@
                     WIDTH="557"
                     HEIGHT="39">
             <Shape><Polygon POINTS="136 122 139 94 279 89 387 90 589 87 693 89 692 116 691 119 136 126"/></Shape>
-	    <String CONTENT="Et par ce bel arreſt terminant la bataille:"
+	    <String CONTENT=""
                     HPOS="136"
                     VPOS="87"
                     WIDTH="557"
@@ -103,7 +103,7 @@
                     WIDTH="561"
                     HEIGHT="42">
             <Shape><Polygon POINTS="137 158 134 129 202 122 202 122 204 122 204 122 205 122 205 122 205 122 206 122 216 129 218 130 233 129 289 122 289 122 290 122 290 122 291 122 291 122 310 129 314 130 314 129 321 123 321 122 321 122 322 122 322 122 322 122 324 122 324 122 325 122 345 122 345 122 345 122 346 122 346 122 366 129 369 130 372 129 392 122 392 122 393 122 393 122 394 122 394 122 394 122 395 122 395 122 395 122 410 129 413 130 415 129 437 121 437 121 439 121 439 121 439 121 440 121 440 121 441 121 441 121 441 121 442 121 456 129 478 121 478 121 479 121 479 121 481 121 481 121 481 121 482 121 482 121 482 121 483 121 483 121 483 122 492 129 492 130 525 130 612 130 671 121 671 121 672 121 672 121 674 121 674 121 674 121 693 130 695 155 693 160 137 163"/></Shape>
-	    <String CONTENT="Tenés voilà, dit-elle, à chacun une ecaille."
+	    <String CONTENT=""
                     HPOS="134"
                     VPOS="121"
                     WIDTH="561"
@@ -120,7 +120,7 @@
                     WIDTH="586"
                     HEIGHT="42">
             <Shape><Polygon POINTS="137 196 132 170 147 160 148 160 148 160 148 160 149 160 149 160 150 160 270 160 270 160 270 160 272 160 272 160 290 168 298 160 298 160 299 160 299 160 299 160 300 160 300 160 300 160 301 160 301 160 302 160 328 166 378 166 384 160 384 159 384 159 385 159 385 159 385 159 387 159 387 159 387 159 388 159 388 159 389 159 389 159 389 159 390 159 403 168 493 168 510 159 510 159 512 159 512 159 512 159 513 159 513 159 514 159 514 159 514 159 515 159 515 159 515 160 523 166 615 166 627 159 628 159 628 159 629 159 629 159 629 159 630 159 630 159 631 159 631 159 648 165 656 158 656 158 657 158 657 158 657 158 659 158 659 158 660 158 660 158 660 158 661 158 661 158 661 158 672 164 682 158 683 158 683 158 685 158 685 158 685 158 686 158 686 158 687 158 717 166 718 192 717 196 137 200"/></Shape>
-	    <String CONTENT="Des ſottiſes d’autrui nous vivons au Palais:"
+	    <String CONTENT=""
                     HPOS="132"
                     VPOS="158"
                     WIDTH="586"
@@ -137,7 +137,7 @@
                     WIDTH="720"
                     HEIGHT="53">
             <Shape><Polygon POINTS="138 236 133 210 149 198 150 198 150 198 150 198 152 198 152 198 152 198 153 198 284 206 293 198 293 197 293 197 294 197 294 197 294 197 295 197 295 197 295 197 296 197 399 205 418 196 418 196 418 196 419 196 419 196 420 196 420 196 463 202 477 196 477 196 477 196 478 196 478 196 479 196 479 196 479 196 481 196 481 196 482 196 482 196 494 205 685 196 686 196 686 196 687 196 687 196 704 202 716 194 716 194 717 194 717 194 718 194 718 194 718 194 719 194 719 194 719 194 721 194 721 194 722 194 735 202 785 202 828 192 828 192 828 192 829 192 829 192 829 192 831 192 831 192 852 202 853 228 852 238 138 245"/></Shape>
-	    <String CONTENT="Meſſieurs, l’huiſtre eſtoit bonne. Adieu. Vivés en paix."
+	    <String CONTENT=""
                     HPOS="133"
                     VPOS="192"
                     WIDTH="720"
