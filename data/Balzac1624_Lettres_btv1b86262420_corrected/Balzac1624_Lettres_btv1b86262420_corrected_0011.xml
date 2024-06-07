@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>Balzac1624_Lettres_btv1b86262420_corrected_0011.png</fileName>
     </sourceImageInformation>
   </Description>
-  
   <Tags>
-    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT93" LABEL="Damage" DESCRIPTION="block type Damage"/><OtherTag ID="BT94" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="BT95" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/><OtherTag ID="BT96" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT98" LABEL="Margin" DESCRIPTION="block type Margin"/><OtherTag ID="BT99" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT100" LABEL="MusicNotation" DESCRIPTION="block type MusicNotation"/><OtherTag ID="BT101" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT102" LABEL="Seal" DESCRIPTION="block type Seal"/><OtherTag ID="BT103" LABEL="Signatures" DESCRIPTION="block type Signatures"/><OtherTag ID="BT104" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT105" LABEL="Table" DESCRIPTION="block type Table"/>
-    <OtherTag ID="LT47" LABEL="Default" DESCRIPTION="line type Default"/><OtherTag ID="LT48" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT49" LABEL="Interlinear" DESCRIPTION="line type Interlinear"/><OtherTag ID="LT50" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT51" LABEL="Rubric" DESCRIPTION="line type Rubric"/>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT133" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT134" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="BT135" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT136" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT137" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/><OtherTag ID="BT138" LABEL="Signatures" DESCRIPTION="block type Signatures"/><OtherTag ID="BT139" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT140" LABEL="Damage" DESCRIPTION="block type Damage"/><OtherTag ID="BT141" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT126" LABEL="Default" DESCRIPTION="line type Default"/><OtherTag ID="LT127" LABEL="Rubric" DESCRIPTION="line type Rubric"/>
   </Tags>
-  
   <Layout>
     <Page WIDTH="4267"
           HEIGHT="6715"
@@ -23,236 +21,192 @@
                   VPOS="0"
                   WIDTH="4267"
                   HEIGHT="6715">
-        
-        <TextBlock HPOS="348"
-                   VPOS="264"
-                   WIDTH="3296"
-                   HEIGHT="2169"
+        <TextBlock HPOS="348.0"
+                   VPOS="264.0"
+                   WIDTH="3296.0"
+                   HEIGHT="2169.0"
                    ID="eSc_textblock_2afe0c70"
-                   TAGREFS="BT1">
+                   TAGREFS="BT133">
           <Shape><Polygon POINTS="348 264 348 2433 3644 2433 3644 264"/></Shape>
-          
-          
           <TextLine ID="tl_1"
-                    TAGREFS="LT47"
+                    TAGREFS="LT126"
                     BASELINE="847 719 3003 697" 
-                    HPOS="847"
-                    VPOS="422"
-                    WIDTH="2156"
-                    HEIGHT="297">
-            <Shape><Polygon POINTS="847 422 3003 422 3003 719 847 719"/></Shape>
+                    HPOS="834"
+                    VPOS="346"
+                    WIDTH="2167"
+                    HEIGHT="420">
+            <Shape><Polygon POINTS="845 716 845 744 1097 766 1282 738 1310 738 1366 766 1377 766 2071 727 2122 727 2150 749 2150 755 2161 755 2167 761 2435 761 2435 755 2447 755 2447 749 2480 721 2671 721 2973 749 3001 721 2979 346 2833 391 2581 352 2559 352 2441 397 2323 358 2307 358 2167 397 2021 358 1976 358 1859 386 1803 363 1780 363 1741 397 1366 374 1237 408 834 380 845 716"/></Shape>
 	    <String CONTENT="LETTRES"
-                    HPOS="847"
-                    VPOS="422"
-                    WIDTH="2156"
-                    HEIGHT="297"></String>
+                    HPOS="834"
+                    VPOS="346"
+                    WIDTH="2167"
+                    HEIGHT="420"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_2"
-                    TAGREFS="LT47"
+                    TAGREFS="LT126"
                     BASELINE="1645 1035 1848 1035 2176 1030" 
-                    HPOS="1645"
-                    VPOS="827"
-                    WIDTH="531"
-                    HEIGHT="208">
-            <Shape><Polygon POINTS="1645 827 2176 827 2176 1035 1645 1035"/></Shape>
+                    HPOS="1640"
+                    VPOS="783"
+                    WIDTH="532"
+                    HEIGHT="319">
+            <Shape><Polygon POINTS="1640 1029 1646 1102 1803 1063 1920 1079 2060 1102 2066 1102 2071 1102 2172 1057 2172 1029 2167 783 1640 789 1640 1029"/></Shape>
 	    <String CONTENT="DV"
-                    HPOS="1645"
-                    VPOS="827"
-                    WIDTH="531"
-                    HEIGHT="208"></String>
+                    HPOS="1640"
+                    VPOS="783"
+                    WIDTH="532"
+                    HEIGHT="319"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_3"
-                    TAGREFS="LT47"
+                    TAGREFS="LT126"
                     BASELINE="562 1612 849 1612 1281 1587 1857 1588 2609 1595 3297 1584" 
-                    HPOS="562"
-                    VPOS="1138"
-                    WIDTH="2735"
-                    HEIGHT="474">
-            <Shape><Polygon POINTS="562 1138 3297 1138 3297 1612 562 1612"/></Shape>
+                    HPOS="559"
+                    VPOS="1225"
+                    WIDTH="2733"
+                    HEIGHT="431">
+            <Shape><Polygon POINTS="559 1656 817 1622 1170 1656 1220 1656 1388 1617 1517 1650 2155 1611 2200 1645 2211 1645 2217 1650 2475 1650 2475 1645 2508 1633 2547 1611 2671 1645 2687 1645 2755 1611 2883 1628 3007 1639 3018 1639 3141 1606 3281 1617 3292 1583 3275 1225 2699 1231 2699 1236 2676 1253 2402 1510 2335 1516 2200 1488 2043 1510 1825 1449 1808 1449 1629 1516 1551 1477 1528 1477 1472 1522 1315 1522 1226 1477 1203 1477 1203 1482 1159 1522 1136 1505 1136 1499 1114 1499 1052 1527 907 1499 895 1499 811 1533 565 1354 559 1656"/></Shape>
 	    <String CONTENT="SIEVR"
-                    HPOS="562"
-                    VPOS="1138"
-                    WIDTH="2735"
-                    HEIGHT="474"></String>
+                    HPOS="559"
+                    VPOS="1225"
+                    WIDTH="2733"
+                    HEIGHT="431"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_4"
-                    TAGREFS="LT47"
+                    TAGREFS="LT126"
                     BASELINE="1713 1880 1887 1880 2151 1863" 
-                    HPOS="1713"
-                    VPOS="1701"
-                    WIDTH="438"
-                    HEIGHT="179">
-            <Shape><Polygon POINTS="1713 1701 2151 1701 2151 1880 1713 1880"/></Shape>
+                    HPOS="1691"
+                    VPOS="1633"
+                    WIDTH="459"
+                    HEIGHT="314">
+            <Shape><Polygon POINTS="1707 1874 1707 1947 2150 1908 2150 1857 2127 1639 1870 1678 1814 1639 1814 1633 1808 1633 1803 1633 1797 1633 1691 1633 1707 1874"/></Shape>
 	    <String CONTENT="DE"
-                    HPOS="1713"
-                    VPOS="1701"
-                    WIDTH="438"
-                    HEIGHT="179"></String>
+                    HPOS="1691"
+                    VPOS="1633"
+                    WIDTH="459"
+                    HEIGHT="314"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_5"
-                    TAGREFS="LT47"
+                    TAGREFS="LT126"
                     BASELINE="946 2284 2913 2238" 
-                    HPOS="946"
-                    VPOS="1996"
-                    WIDTH="1967"
-                    HEIGHT="288">
-            <Shape><Polygon POINTS="946 1996 2913 1996 2913 2284 946 2284"/></Shape>
+                    HPOS="929"
+                    VPOS="1908"
+                    WIDTH="1982"
+                    HEIGHT="391">
+            <Shape><Polygon POINTS="940 2283 940 2299 2911 2277 2911 2232 2900 1958 2760 1908 2755 1908 2749 1908 2542 1941 2508 1913 2503 1913 2497 1913 2491 1913 2486 1913 2385 1958 2329 1986 2150 1986 2094 1958 2066 1936 2060 1936 2055 1936 2049 1936 2043 1936 2038 1936 2015 1958 1993 1975 1903 1958 1898 1958 1892 1958 1786 1997 1735 1958 1730 1958 1724 1958 1719 1958 1545 1997 1383 1964 1377 1964 1371 1964 1366 1964 1366 1969 1360 1969 1332 2014 1271 2014 1147 1958 1136 1952 1131 1952 1125 1952 929 1952 940 2283"/></Shape>
 	    <String CONTENT="BALZAC."
-                    HPOS="946"
-                    VPOS="1996"
-                    WIDTH="1967"
-                    HEIGHT="288"></String>
+                    HPOS="929"
+                    VPOS="1908"
+                    WIDTH="1982"
+                    HEIGHT="391"></String>
           </TextLine>
-
-          
         </TextBlock>
-        
-        <TextBlock HPOS="647"
-                   VPOS="2481"
-                   WIDTH="2445"
-                   HEIGHT="1834"
-                   ID="eSc_textblock_01c4bb01"
-                   TAGREFS="BT94">
-          <Shape><Polygon POINTS="647 2481 647 4315 3092 4315 3092 2481"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="527"
-                   VPOS="4327"
-                   WIDTH="2829"
-                   HEIGHT="1858"
+        <TextBlock HPOS="527.0"
+                   VPOS="4327.0"
+                   WIDTH="2829.0"
+                   HEIGHT="1858.0"
                    ID="eSc_textblock_4fdda693"
-                   TAGREFS="BT1">
+                   TAGREFS="BT133">
           <Shape><Polygon POINTS="527 4327 527 6185 3356 6185 3356 4327"/></Shape>
-          
-          
           <TextLine ID="tl_7"
-                    TAGREFS="LT47"
+                    TAGREFS="LT126"
                     BASELINE="1333 4581 1487 4581 2706 4565" 
-                    HPOS="1333"
-                    VPOS="4399"
-                    WIDTH="1382"
-                    HEIGHT="195">
-            <Shape><Polygon POINTS="1333 4399 2713 4399 2715 4594 1335 4594"/></Shape>
+                    HPOS="1327"
+                    VPOS="4336"
+                    WIDTH="1377"
+                    HEIGHT="291">
+            <Shape><Polygon POINTS="1332 4577 1332 4627 2704 4610 2704 4560 2693 4381 2486 4336 2480 4336 2262 4381 2251 4381 2161 4336 2155 4336 2150 4336 2144 4336 2139 4336 2077 4381 2071 4387 2049 4381 1926 4347 1920 4347 1915 4347 1909 4347 1836 4381 1831 4387 1831 4381 1786 4347 1786 4342 1780 4342 1775 4342 1769 4342 1668 4347 1663 4347 1657 4347 1657 4353 1618 4387 1607 4398 1506 4398 1489 4387 1433 4347 1427 4347 1422 4347 1416 4347 1411 4347 1327 4381 1332 4577"/></Shape>
 	    <String CONTENT="A PARIS,"
-                    HPOS="1333"
-                    VPOS="4399"
-                    WIDTH="1382"
-                    HEIGHT="195"></String>
+                    HPOS="1327"
+                    VPOS="4336"
+                    WIDTH="1377"
+                    HEIGHT="291"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_8"
-                    TAGREFS="LT47"
+                    TAGREFS="LT126"
                     BASELINE="752 4845 902 4845 3306 4815" 
-                    HPOS="752"
-                    VPOS="4656"
-                    WIDTH="2564"
-                    HEIGHT="189">
-            <Shape><Polygon POINTS="752 4657 3316 4656 3316 4844 752 4845"/></Shape>
+                    HPOS="744"
+                    VPOS="4605"
+                    WIDTH="2559"
+                    HEIGHT="291">
+            <Shape><Polygon POINTS="750 4840 750 4862 968 4896 985 4896 1019 4862 1388 4862 1679 4896 2038 4890 2200 4851 2547 4851 2637 4885 2648 4885 3303 4845 3303 4812 3287 4638 3102 4661 3012 4616 2990 4616 2934 4666 2833 4666 2609 4610 2480 4627 2245 4666 2127 4605 2105 4605 2021 4655 1775 4633 1691 4672 1366 4610 1349 4610 1259 4683 1035 4683 968 4622 968 4616 744 4616 750 4840"/></Shape>
 	    <String CONTENT="Chez TOVSSAINCT DV"
-                    HPOS="752"
-                    VPOS="4656"
-                    WIDTH="2564"
-                    HEIGHT="189"></String>
+                    HPOS="744"
+                    VPOS="4605"
+                    WIDTH="2559"
+                    HEIGHT="291"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_9"
-                    TAGREFS="LT47"
+                    TAGREFS="LT126"
                     BASELINE="915 5095 1041 5095 2037 5073 2281 5074 3138 5107" 
-                    HPOS="915"
-                    VPOS="4903"
-                    WIDTH="2223"
-                    HEIGHT="245">
-            <Shape><Polygon POINTS="915 4903 3138 4903 3138 5148 915 5148"/></Shape>
+                    HPOS="907"
+                    VPOS="4862"
+                    WIDTH="2228"
+                    HEIGHT="280">
+            <Shape><Polygon POINTS="912 5092 907 5114 1786 5114 1965 5142 2223 5114 2284 5142 2357 5136 2531 5114 2749 5142 2827 5142 3051 5114 3119 5142 3135 5103 3130 4935 3063 4935 3063 4929 2995 4873 2995 4868 2979 4868 2743 4918 2559 4868 2284 4868 2245 4901 2161 4868 2144 4868 2083 4896 2055 4913 1982 4873 1959 4873 1931 4890 1881 4929 1584 4929 1506 4890 1153 4924 1058 4868 912 4862 912 5092"/></Shape>
 	    <String CONTENT="BRAY, ruë S. Iacques,"
-                    HPOS="915"
-                    VPOS="4903"
-                    WIDTH="2223"
-                    HEIGHT="245"></String>
+                    HPOS="907"
+                    VPOS="4862"
+                    WIDTH="2228"
+                    HEIGHT="280"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_10"
-                    TAGREFS="LT47"
+                    TAGREFS="LT126"
                     BASELINE="1211 5343 1513 5348 2789 5323" 
-                    HPOS="1211"
-                    VPOS="5151"
-                    WIDTH="1578"
-                    HEIGHT="260">
-            <Shape><Polygon POINTS="1211 5151 2789 5151 2789 5411 1211 5411"/></Shape>
+                    HPOS="1203"
+                    VPOS="5120"
+                    WIDTH="1585"
+                    HEIGHT="285">
+            <Shape><Polygon POINTS="1209 5338 1209 5360 1321 5405 1338 5405 1405 5372 1556 5394 1573 5394 1573 5388 1579 5388 1601 5360 1887 5399 1903 5399 1903 5394 1943 5360 2060 5394 2083 5394 2083 5388 2127 5355 2262 5388 2279 5388 2351 5355 2419 5383 2430 5383 2788 5338 2783 5170 2732 5142 2721 5142 2111 5176 1926 5120 1567 5125 1467 5187 1366 5159 1203 5187 1209 5338"/></Shape>
 	    <String CONTENT="aux Eſpics-meurs."
-                    HPOS="1211"
-                    VPOS="5151"
-                    WIDTH="1578"
-                    HEIGHT="260"></String>
+                    HPOS="1203"
+                    VPOS="5120"
+                    WIDTH="1585"
+                    HEIGHT="285"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_11"
-                    TAGREFS="LT47"
+                    TAGREFS="LT126"
                     BASELINE="1333 5661 1942 5654 2734 5638" 
-                    HPOS="1323"
-                    VPOS="5500"
-                    WIDTH="1411"
-                    HEIGHT="178">
-            <Shape><Polygon POINTS="1323 5500 2734 5506 2734 5678 1323 5672"/></Shape>
+                    HPOS="1327"
+                    VPOS="5450"
+                    WIDTH="1405"
+                    HEIGHT="252">
+            <Shape><Polygon POINTS="1332 5657 1332 5702 1999 5662 2077 5690 2083 5690 2088 5690 2094 5690 2385 5657 2727 5679 2732 5635 2721 5472 2015 5450 2010 5450 2004 5450 1999 5450 1999 5455 1965 5483 1814 5455 1808 5455 1803 5455 1797 5455 1763 5483 1371 5467 1366 5467 1360 5467 1355 5467 1327 5483 1332 5657"/></Shape>
 	    <String CONTENT="M. DC. XXIIII."
-                    HPOS="1323"
-                    VPOS="5500"
-                    WIDTH="1411"
-                    HEIGHT="178"></String>
+                    HPOS="1327"
+                    VPOS="5450"
+                    WIDTH="1405"
+                    HEIGHT="252"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_12"
-                    TAGREFS="LT47"
+                    TAGREFS="LT126"
                     BASELINE="1182 5923 1582 5918 2330 5914 2562 5910 2934 5906" 
-                    HPOS="1174"
-                    VPOS="5724"
-                    WIDTH="1760"
-                    HEIGHT="254">
-            <Shape><Polygon POINTS="1174 5724 2934 5726 2934 5978 1174 5976"/></Shape>
+                    HPOS="1175"
+                    VPOS="5679"
+                    WIDTH="1753"
+                    HEIGHT="342">
+            <Shape><Polygon POINTS="1181 5920 1192 6015 1248 5965 1338 6009 1349 6009 1534 5965 1590 6009 1590 6015 1601 6015 1607 6021 1719 6021 1719 6015 1730 6015 1870 5959 2256 6009 2290 6009 2346 5959 2637 5953 2699 6004 2721 6004 2816 5970 2911 6004 2928 5903 2917 5730 2419 5679 2419 5685 2368 5730 2357 5746 2245 5746 2234 5730 2189 5690 2189 5685 2038 5685 1937 5746 1780 5746 1758 5730 1679 5696 1663 5696 1584 5730 1545 5752 1411 5752 1394 5730 1355 5702 1355 5696 1327 5696 1276 5730 1259 5746 1175 5735 1181 5920"/></Shape>
 	    <String CONTENT="Auec Priuilege du Roy."
-                    HPOS="1174"
-                    VPOS="5724"
-                    WIDTH="1760"
-                    HEIGHT="254"></String>
+                    HPOS="1175"
+                    VPOS="5679"
+                    WIDTH="1753"
+                    HEIGHT="342"></String>
           </TextLine>
-
-          
         </TextBlock>
-        
-        <TextBlock HPOS="2756"
-                   VPOS="3594"
-                   WIDTH="1127"
-                   HEIGHT="1119"
+        <TextBlock HPOS="647.0"
+                   VPOS="2481.0"
+                   WIDTH="2445.0"
+                   HEIGHT="1834.0"
+                   ID="eSc_textblock_01c4bb01"
+                   TAGREFS="BT134">
+          <Shape><Polygon POINTS="647 2481 647 4315 3092 4315 3092 2481"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2756.0"
+                   VPOS="3594.0"
+                   WIDTH="1127.0"
+                   HEIGHT="1119.0"
                    ID="eSc_textblock_5892b8e8"
-                   TAGREFS="BT104">
+                   TAGREFS="BT135">
           <Shape><Polygon POINTS="3883 4713 3883 3594 2756 3594 2756 4713"/></Shape>
-          
         </TextBlock>
-        
-
-        
       </PrintSpace>
     </Page>
   </Layout>
