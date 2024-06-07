@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>Moliere1694_DomGarcie_corrected_0002.png</fileName>
     </sourceImageInformation>
   </Description>
-  
   <Tags>
-    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT331" LABEL="Damage" DESCRIPTION="block type Damage"/><OtherTag ID="BT332" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="BT333" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/><OtherTag ID="BT334" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT335" LABEL="Margin" DESCRIPTION="block type Margin"/><OtherTag ID="BT336" LABEL="MusicNotation" DESCRIPTION="block type MusicNotation"/><OtherTag ID="BT337" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT338" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT339" LABEL="Seal" DESCRIPTION="block type Seal"/><OtherTag ID="BT340" LABEL="Signatures" DESCRIPTION="block type Signatures"/><OtherTag ID="BT341" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT342" LABEL="Table" DESCRIPTION="block type Table"/>
-    <OtherTag ID="LT124" LABEL="Default" DESCRIPTION="line type Default"/><OtherTag ID="LT125" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT126" LABEL="Interlinear" DESCRIPTION="line type Interlinear"/><OtherTag ID="LT127" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT128" LABEL="Rubric" DESCRIPTION="line type Rubric"/>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT265" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT266" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="BT267" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT268" LABEL="Damage" DESCRIPTION="block type Damage"/><OtherTag ID="BT269" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT270" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/><OtherTag ID="BT271" LABEL="Signatures" DESCRIPTION="block type Signatures"/><OtherTag ID="BT272" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT196" LABEL="Default" DESCRIPTION="line type Default"/><OtherTag ID="LT197" LABEL="Rubric" DESCRIPTION="line type Rubric"/>
   </Tags>
-  
   <Layout>
     <Page WIDTH="1034"
           HEIGHT="1736"
@@ -23,226 +21,184 @@
                   VPOS="0"
                   WIDTH="1034"
                   HEIGHT="1736">
-        
-        <TextBlock HPOS="61"
-                   VPOS="15"
-                   WIDTH="857"
-                   HEIGHT="697"
+        <TextBlock HPOS="61.0"
+                   VPOS="15.0"
+                   WIDTH="857.0"
+                   HEIGHT="697.0"
                    ID="eSc_textblock_855b9499"
-                   TAGREFS="BT1">
+                   TAGREFS="BT265">
           <Shape><Polygon POINTS="61 15 61 712 918 712 918 15"/></Shape>
-          
-          
           <TextLine ID="tl_1"
-                    TAGREFS="LT124"
+                    TAGREFS="LT196"
                     BASELINE="82 134 398 130 914 134" 
-                    HPOS="82"
-                    VPOS="26"
-                    WIDTH="832"
-                    HEIGHT="108">
-            <Shape><Polygon POINTS="82 26 914 26 914 134 82 134"/></Shape>
+                    HPOS="79"
+                    VPOS="15"
+                    WIDTH="834"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="890 15 680 15 518 20 501 15 456 15 443 20 405 15 343 15 315 20 311 15 81 15 79 149 112 150 133 140 198 150 236 140 305 151 338 141 393 151 459 143 527 151 692 141 728 151 738 143 753 149 802 141 879 151 912 140 913 133 913 21 890 15"/></Shape>
 	    <String CONTENT="DOM GARCIE"
-                    HPOS="82"
-                    VPOS="26"
-                    WIDTH="832"
-                    HEIGHT="108"></String>
+                    HPOS="79"
+                    VPOS="15"
+                    WIDTH="834"
+                    HEIGHT="136"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="line_1563987664437_544"
-                    TAGREFS="LT124"
+                    TAGREFS="LT196"
                     BASELINE="117 245 262 250 874 254" 
-                    HPOS="117"
-                    VPOS="178"
-                    WIDTH="757"
-                    HEIGHT="76">
-            <Shape><Polygon POINTS="117 178 874 178 874 254 117 254"/></Shape>
+                    HPOS="114"
+                    VPOS="149"
+                    WIDTH="759"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="115 244 114 261 173 257 243 267 265 258 283 267 356 269 360 269 369 260 421 260 433 269 469 260 480 269 645 270 654 261 696 261 740 270 747 270 757 263 822 263 839 271 847 271 855 263 867 271 873 253 873 169 698 151 638 151 606 166 579 151 524 162 476 153 443 164 419 150 412 150 391 164 351 150 333 164 288 164 237 149 198 163 157 149 144 163 115 163 115 244"/></Shape>
 	    <String CONTENT="DE NAVARRE,"
-                    HPOS="117"
-                    VPOS="178"
-                    WIDTH="757"
+                    HPOS="114"
+                    VPOS="149"
+                    WIDTH="759"
+                    HEIGHT="122"></String>
+          </TextLine>
+          <TextLine ID="tl_3"
+                    TAGREFS="LT196"
+                    BASELINE="354 345 391 345 461 345 545 345 607 344" 
+                    HPOS="351"
+                    VPOS="286"
+                    WIDTH="255"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="353 344 353 354 603 358 606 342 603 295 551 286 550 286 351 290 353 344"/></Shape>
+	    <String CONTENT="OU LE"
+                    HPOS="351"
+                    VPOS="286"
+                    WIDTH="255"
+                    HEIGHT="72"></String>
+          </TextLine>
+          <TextLine ID="tl_4"
+                    TAGREFS="LT196"
+                    BASELINE="117 461 429 458 836 472" 
+                    HPOS="114"
+                    VPOS="386"
+                    WIDTH="721"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="115 460 114 468 204 474 292 465 327 477 351 467 441 465 454 480 459 481 515 481 556 468 680 468 832 486 835 471 835 403 799 392 750 402 703 390 698 390 683 405 657 394 651 394 640 403 632 397 616 402 606 389 525 386 492 387 469 403 363 393 322 400 266 393 115 396 115 460"/></Shape>
+	    <String CONTENT="PRINCE JALOUX,"
+                    HPOS="114"
+                    VPOS="386"
+                    WIDTH="721"
+                    HEIGHT="100"></String>
+          </TextLine>
+          <TextLine ID="tl_5"
+                    TAGREFS="LT196"
+                    BASELINE="212 577 731 577" 
+                    HPOS="211"
+                    VPOS="500"
+                    WIDTH="518"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="211 575 211 583 308 591 333 585 340 593 377 583 441 593 492 583 550 590 611 583 635 594 716 594 729 584 729 512 706 500 661 500 642 513 572 513 544 500 485 500 473 510 459 500 421 509 363 500 328 512 211 510 211 575"/></Shape>
+	    <String CONTENT="COMEDIE."
+                    HPOS="211"
+                    VPOS="500"
+                    WIDTH="518"
+                    HEIGHT="94"></String>
+          </TextLine>
+          <TextLine ID="tl_6"
+                    TAGREFS="LT196"
+                    BASELINE="138 658 246 656 302 654 369 654 436 655 536 656 832 662" 
+                    HPOS="136"
+                    VPOS="597"
+                    WIDTH="695"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="137 656 136 668 249 664 318 671 337 672 338 672 350 671 396 664 409 671 411 672 412 672 414 672 415 672 422 671 451 665 551 672 625 677 627 677 647 672 667 668 828 672 831 661 831 609 582 601 580 601 579 601 570 604 553 610 499 603 472 600 470 600 469 600 467 600 464 603 454 609 308 609 292 600 286 597 285 597 283 597 282 597 280 597 278 600 267 607 183 607 137 598 137 656"/></Shape>
+	    <String CONTENT="PAR J. B. P. DE MOLIERE."
+                    HPOS="136"
+                    VPOS="597"
+                    WIDTH="695"
+                    HEIGHT="80"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="55.0"
+                   VPOS="1287.0"
+                   WIDTH="863.0"
+                   HEIGHT="340.0"
+                   ID="eSc_textblock_14443ddd"
+                   TAGREFS="BT265">
+          <Shape><Polygon POINTS="55 1287 55 1627 918 1627 918 1287"/></Shape>
+          <TextLine ID="tl_7"
+                    TAGREFS="LT196"
+                    BASELINE="174 1348 208 1348 790 1349" 
+                    HPOS="172"
+                    VPOS="1290"
+                    WIDTH="617"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="173 1346 172 1364 527 1371 528 1371 530 1371 535 1368 556 1361 583 1368 585 1368 586 1368 706 1361 786 1371 789 1348 786 1290 173 1297 173 1346"/></Shape>
+	    <String CONTENT="A BRUSSELLES,"
+                    HPOS="172"
+                    VPOS="1290"
+                    WIDTH="617"
+                    HEIGHT="81"></String>
+          </TextLine>
+          <TextLine ID="tl_8"
+                    TAGREFS="LT196"
+                    BASELINE="75 1414 117 1414 422 1413 514 1412 885 1411" 
+                    HPOS="72"
+                    VPOS="1355"
+                    WIDTH="811"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="73 1413 73 1423 265 1427 289 1420 301 1427 308 1427 318 1420 366 1427 382 1420 424 1427 444 1419 467 1426 582 1419 692 1426 722 1419 770 1426 818 1417 883 1424 883 1371 858 1362 835 1368 822 1355 773 1372 738 1365 686 1372 664 1356 637 1356 585 1372 558 1356 518 1368 502 1356 496 1356 467 1372 422 1367 402 1375 279 1375 224 1358 163 1369 149 1358 72 1358 73 1413"/></Shape>
+	    <String CONTENT="Chez George de Backer, Im¬"
+                    HPOS="72"
+                    VPOS="1355"
+                    WIDTH="811"
+                    HEIGHT="72"></String>
+          </TextLine>
+          <TextLine ID="tl_9"
+                    TAGREFS="LT196"
+                    BASELINE="131 1476 287 1463 342 1464 560 1463 742 1461 830 1460" 
+                    HPOS="128"
+                    VPOS="1411"
+                    WIDTH="700"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="677 1411 645 1420 627 1411 612 1411 603 1416 545 1411 517 1423 461 1413 450 1424 392 1413 388 1413 380 1420 321 1414 293 1424 262 1416 224 1427 192 1417 128 1426 130 1487 195 1475 325 1479 418 1471 522 1481 560 1468 582 1478 718 1477 744 1465 779 1474 828 1469 826 1416 705 1419 677 1411"/></Shape>
+	    <String CONTENT="primeur &amp; Marchand Libraire aux"
+                    HPOS="128"
+                    VPOS="1411"
+                    WIDTH="700"
                     HEIGHT="76"></String>
           </TextLine>
-
-          
-          
-          <TextLine ID="tl_3"
-                    TAGREFS="LT124"
-                    BASELINE="354 345 391 345 461 345 545 345 607 344" 
-                    HPOS="354"
-                    VPOS="306"
-                    WIDTH="253"
-                    HEIGHT="39">
-            <Shape><Polygon POINTS="354 306 607 306 607 345 354 345"/></Shape>
-	    <String CONTENT="OU LE"
-                    HPOS="354"
-                    VPOS="306"
-                    WIDTH="253"
-                    HEIGHT="39"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_4"
-                    TAGREFS="LT124"
-                    BASELINE="117 461 429 458 836 472" 
-                    HPOS="117"
-                    VPOS="411"
-                    WIDTH="719"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="117 411 836 411 836 478 117 478"/></Shape>
-	    <String CONTENT="PRINCE JALOUX,"
-                    HPOS="117"
-                    VPOS="411"
-                    WIDTH="719"
-                    HEIGHT="67"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_5"
-                    TAGREFS="LT124"
-                    BASELINE="212 577 731 577" 
-                    HPOS="212"
-                    VPOS="526"
-                    WIDTH="519"
-                    HEIGHT="52">
-            <Shape><Polygon POINTS="212 526 731 526 731 578 212 578"/></Shape>
-	    <String CONTENT="COMEDIE."
-                    HPOS="212"
-                    VPOS="526"
-                    WIDTH="519"
-                    HEIGHT="52"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_6"
-                    TAGREFS="LT124"
-                    BASELINE="138 658 246 656 302 654 369 654 436 655 536 656 832 662" 
-                    HPOS="138"
-                    VPOS="619"
-                    WIDTH="694"
-                    HEIGHT="47">
-            <Shape><Polygon POINTS="138 619 832 619 832 666 138 666"/></Shape>
-	    <String CONTENT="PAR J. B. P. DE MOLIERE."
-                    HPOS="138"
-                    VPOS="619"
-                    WIDTH="694"
-                    HEIGHT="47"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="55"
-                   VPOS="1287"
-                   WIDTH="863"
-                   HEIGHT="340"
-                   ID="eSc_textblock_14443ddd"
-                   TAGREFS="BT1">
-          <Shape><Polygon POINTS="55 1287 55 1627 918 1627 918 1287"/></Shape>
-          
-          
-          <TextLine ID="tl_7"
-                    TAGREFS="LT124"
-                    BASELINE="174 1348 208 1348 790 1349" 
-                    HPOS="174"
-                    VPOS="1311"
-                    WIDTH="619"
-                    HEIGHT="44">
-            <Shape><Polygon POINTS="174 1311 793 1311 793 1355 174 1355"/></Shape>
-	    <String CONTENT="A BRUSSELLES,"
-                    HPOS="174"
-                    VPOS="1311"
-                    WIDTH="619"
-                    HEIGHT="44"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_8"
-                    TAGREFS="LT124"
-                    BASELINE="75 1414 117 1414 422 1413 514 1412 885 1411" 
-                    HPOS="75"
-                    VPOS="1367"
-                    WIDTH="811"
-                    HEIGHT="50">
-            <Shape><Polygon POINTS="75 1367 886 1368 886 1417 75 1416"/></Shape>
-	    <String CONTENT="Chez George de Backer, Im¬"
-                    HPOS="75"
-                    VPOS="1367"
-                    WIDTH="811"
-                    HEIGHT="50"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_9"
-                    TAGREFS="LT124"
-                    BASELINE="131 1476 287 1463 342 1464 560 1463 742 1461 830 1460" 
-                    HPOS="131"
-                    VPOS="1426"
-                    WIDTH="699"
-                    HEIGHT="50">
-            <Shape><Polygon POINTS="131 1426 830 1426 830 1476 131 1476"/></Shape>
-	    <String CONTENT="primeur &amp; Marchand Libraire aux"
-                    HPOS="131"
-                    VPOS="1426"
-                    WIDTH="699"
-                    HEIGHT="50"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="tl_10"
-                    TAGREFS="LT124"
+                    TAGREFS="LT196"
                     BASELINE="156 1512 240 1513 386 1520 413 1514 456 1513 693 1512 805 1512" 
-                    HPOS="156"
-                    VPOS="1477"
-                    WIDTH="649"
-                    HEIGHT="50">
-            <Shape><Polygon POINTS="156 1477 805 1477 805 1527 156 1527"/></Shape>
+                    HPOS="154"
+                    VPOS="1464"
+                    WIDTH="648"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="430 1464 304 1472 299 1472 288 1464 270 1464 154 1474 156 1530 166 1521 176 1529 183 1529 192 1521 236 1529 259 1521 299 1532 459 1533 628 1524 657 1534 679 1526 729 1534 802 1524 802 1477 728 1466 712 1475 640 1468 635 1468 628 1475 603 1465 569 1474 511 1465 444 1472 430 1464"/></Shape>
 	    <String CONTENT="trois Mores, à la Berg-ſtraet. 1694."
-                    HPOS="156"
-                    VPOS="1477"
-                    WIDTH="649"
-                    HEIGHT="50"></String>
+                    HPOS="154"
+                    VPOS="1464"
+                    WIDTH="648"
+                    HEIGHT="70"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_11"
-                    TAGREFS="LT124"
+                    TAGREFS="LT196"
                     BASELINE="252 1598 351 1599 543 1595 612 1593 668 1594 712 1596" 
-                    HPOS="252"
-                    VPOS="1561"
-                    WIDTH="460"
-                    HEIGHT="49">
-            <Shape><Polygon POINTS="252 1561 712 1561 712 1610 252 1610"/></Shape>
+                    HPOS="250"
+                    VPOS="1547"
+                    WIDTH="461"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="251 1597 251 1610 331 1615 444 1605 496 1615 556 1605 570 1613 580 1614 590 1604 641 1602 657 1614 709 1614 711 1595 708 1552 670 1556 621 1547 603 1556 585 1549 518 1558 493 1549 440 1559 382 1550 366 1562 312 1562 272 1552 250 1559 251 1597"/></Shape>
 	    <String CONTENT="Avec Privilege du Roy."
-                    HPOS="252"
-                    VPOS="1561"
-                    WIDTH="460"
-                    HEIGHT="49"></String>
+                    HPOS="250"
+                    VPOS="1547"
+                    WIDTH="461"
+                    HEIGHT="68"></String>
           </TextLine>
-
-          
         </TextBlock>
-        
-        <TextBlock HPOS="131"
-                   VPOS="755"
-                   WIDTH="700"
-                   HEIGHT="482"
+        <TextBlock HPOS="131.0"
+                   VPOS="755.0"
+                   WIDTH="700.0"
+                   HEIGHT="482.0"
                    ID="eSc_textblock_9fc6ea88"
-                   TAGREFS="BT332">
+                   TAGREFS="BT266">
           <Shape><Polygon POINTS="131 755 131 1237 831 1237 831 755"/></Shape>
-          
         </TextBlock>
-        
-
-        
       </PrintSpace>
     </Page>
   </Layout>

@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>Moliere1694_DomGarcie_corrected_0003.png</fileName>
     </sourceImageInformation>
   </Description>
-  
   <Tags>
-    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT331" LABEL="Damage" DESCRIPTION="block type Damage"/><OtherTag ID="BT332" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="BT333" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/><OtherTag ID="BT334" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT335" LABEL="Margin" DESCRIPTION="block type Margin"/><OtherTag ID="BT336" LABEL="MusicNotation" DESCRIPTION="block type MusicNotation"/><OtherTag ID="BT337" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT338" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT339" LABEL="Seal" DESCRIPTION="block type Seal"/><OtherTag ID="BT340" LABEL="Signatures" DESCRIPTION="block type Signatures"/><OtherTag ID="BT341" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT342" LABEL="Table" DESCRIPTION="block type Table"/>
-    <OtherTag ID="LT124" LABEL="Default" DESCRIPTION="line type Default"/><OtherTag ID="LT125" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT126" LABEL="Interlinear" DESCRIPTION="line type Interlinear"/><OtherTag ID="LT127" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT128" LABEL="Rubric" DESCRIPTION="line type Rubric"/>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT265" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT266" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="BT267" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT268" LABEL="Damage" DESCRIPTION="block type Damage"/><OtherTag ID="BT269" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT270" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/><OtherTag ID="BT271" LABEL="Signatures" DESCRIPTION="block type Signatures"/><OtherTag ID="BT272" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT196" LABEL="Default" DESCRIPTION="line type Default"/><OtherTag ID="LT197" LABEL="Rubric" DESCRIPTION="line type Rubric"/>
   </Tags>
-  
   <Layout>
     <Page WIDTH="1006"
           HEIGHT="1768"
@@ -23,284 +21,232 @@
                   VPOS="0"
                   WIDTH="1006"
                   HEIGHT="1768">
-        
-        <TextBlock HPOS="90"
-                   VPOS="271"
-                   WIDTH="848"
-                   HEIGHT="848"
+        <TextBlock HPOS="90.0"
+                   VPOS="271.0"
+                   WIDTH="848.0"
+                   HEIGHT="848.0"
                    ID="eSc_textblock_98905878"
-                   TAGREFS="BT2">
+                   TAGREFS="BT267">
           <Shape><Polygon POINTS="96 283 90 1119 938 1105 924 271"/></Shape>
-          
-          
           <TextLine ID="tl_1"
-                    TAGREFS="LT124"
+                    TAGREFS="LT196"
                     BASELINE="185 328 306 328 860 328" 
-                    HPOS="185"
-                    VPOS="289"
+                    HPOS="184"
+                    VPOS="271"
                     WIDTH="675"
-                    HEIGHT="39">
-            <Shape><Polygon POINTS="185 289 860 289 860 328 185 328"/></Shape>
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="839 271 764 278 737 272 719 274 713 279 656 274 566 278 483 276 477 279 455 276 184 282 185 349 231 337 302 344 315 335 354 349 408 335 464 344 498 340 520 350 622 349 643 335 722 335 730 343 774 335 787 346 858 347 859 279 839 271"/></Shape>
 	    <String CONTENT="LES PERSONNAGES."
-                    HPOS="185"
-                    VPOS="289"
+                    HPOS="184"
+                    VPOS="271"
                     WIDTH="675"
-                    HEIGHT="39"></String>
+                    HEIGHT="79"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_2"
-                    TAGREFS="LT124"
+                    TAGREFS="LT196"
                     BASELINE="110 422 217 422 267 421 545 420 584 420 710 419 727 424 845 418 918 412" 
-                    HPOS="110"
-                    VPOS="391"
-                    WIDTH="808"
-                    HEIGHT="33">
-            <Shape><Polygon POINTS="110 391 918 391 918 424 110 424"/></Shape>
-	    <String CONTENT="DOM GARCIE, Prince de Navarre, Amant d&#39;E¬"
-                    HPOS="110"
-                    VPOS="391"
-                    WIDTH="808"
-                    HEIGHT="33"></String>
+                    HPOS="109"
+                    VPOS="365"
+                    WIDTH="807"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="109 442 252 431 293 431 302 440 382 431 433 442 448 430 489 440 495 440 501 434 507 442 680 440 916 424 916 378 867 365 821 380 767 380 758 371 678 380 557 368 526 380 491 369 438 381 413 369 284 380 266 371 150 372 140 383 109 372 109 442"/></Shape>
+	    <String CONTENT="DOM GARCIE, Prince de Navarre, Amant d&#x27;E¬"
+                    HPOS="109"
+                    VPOS="365"
+                    WIDTH="807"
+                    HEIGHT="77"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_3"
-                    TAGREFS="LT124"
+                    TAGREFS="LT196"
                     BASELINE="210 461 288 460" 
-                    HPOS="210"
-                    VPOS="431"
+                    HPOS="209"
+                    VPOS="421"
                     WIDTH="78"
-                    HEIGHT="30">
-            <Shape><Polygon POINTS="210 431 288 431 288 461 210 461"/></Shape>
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="224 421 209 422 209 459 209 471 287 467 287 459 287 428 231 421 224 421"/></Shape>
 	    <String CONTENT="luire."
-                    HPOS="210"
-                    VPOS="431"
+                    HPOS="209"
+                    VPOS="421"
                     WIDTH="78"
-                    HEIGHT="30"></String>
+                    HEIGHT="50"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_4"
-                    TAGREFS="LT124"
+                    TAGREFS="LT196"
                     BASELINE="110 516 148 515 199 515 227 515 317 514 347 514 365 518 511 513 557 513 652 515" 
-                    HPOS="110"
-                    VPOS="484"
-                    WIDTH="542"
-                    HEIGHT="34">
-            <Shape><Polygon POINTS="110 484 652 484 652 518 110 518"/></Shape>
+                    HPOS="107"
+                    VPOS="464"
+                    WIDTH="544"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="109 515 109 527 651 527 651 514 650 471 498 464 497 464 449 472 442 472 417 472 266 467 265 467 107 474 109 515"/></Shape>
 	    <String CONTENT="D. ELUIRE, Princeſſe de Leon."
-                    HPOS="110"
-                    VPOS="484"
-                    WIDTH="542"
-                    HEIGHT="34"></String>
+                    HPOS="107"
+                    VPOS="464"
+                    WIDTH="544"
+                    HEIGHT="63"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_5"
-                    TAGREFS="LT124"
+                    TAGREFS="LT196"
                     BASELINE="109 571 132 571 429 567 567 567" 
-                    HPOS="109"
-                    VPOS="538"
-                    WIDTH="458"
-                    HEIGHT="34">
-            <Shape><Polygon POINTS="109 538 567 538 567 572 109 572"/></Shape>
-	    <String CONTENT="ELISE, Confidente d&#39;Eluire."
-                    HPOS="109"
-                    VPOS="538"
-                    WIDTH="458"
-                    HEIGHT="34"></String>
+                    HPOS="106"
+                    VPOS="517"
+                    WIDTH="460"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="107 570 107 583 564 583 566 565 564 528 505 528 488 517 486 517 485 517 483 517 482 517 480 517 466 528 463 530 383 530 379 528 349 518 348 518 346 518 345 518 343 518 328 528 324 530 318 528 297 520 296 520 262 520 261 520 259 520 258 520 247 528 244 530 241 528 234 523 233 523 231 523 230 523 106 527 107 570"/></Shape>
+	    <String CONTENT="ELISE, Confidente d&#x27;Eluire."
+                    HPOS="106"
+                    VPOS="517"
+                    WIDTH="460"
+                    HEIGHT="66"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_6"
-                    TAGREFS="LT124"
+                    TAGREFS="LT196"
                     BASELINE="109 623 137 623 277 622 631 622 671 622 768 626 821 622 917 621" 
-                    HPOS="109"
-                    VPOS="594"
-                    WIDTH="808"
-                    HEIGHT="33">
-            <Shape><Polygon POINTS="109 594 917 594 917 627 109 627"/></Shape>
+                    HPOS="106"
+                    VPOS="567"
+                    WIDTH="810"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="327 568 312 568 297 568 283 568 277 568 261 579 255 581 234 579 178 570 177 570 106 577 107 621 107 635 914 633 916 620 913 583 876 583 876 581 855 567 854 567 852 567 746 567 744 567 743 567 741 567 722 581 721 583 660 583 659 581 647 571 646 571 644 571 643 571 641 571 640 571 626 580 623 581 612 580 547 574 545 574 516 580 507 581 504 580 489 570 488 570 486 570 485 570 417 579 337 567 327 568"/></Shape>
 	    <String CONTENT="DOM ALPHONSE, Prince de Leon, crû Prince"
-                    HPOS="109"
-                    VPOS="594"
-                    WIDTH="808"
-                    HEIGHT="33"></String>
+                    HPOS="106"
+                    VPOS="567"
+                    WIDTH="810"
+                    HEIGHT="68"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_7"
-                    TAGREFS="LT124"
+                    TAGREFS="LT196"
                     BASELINE="209 661 245 661 384 665 460 662 496 662 581 662 631 663 721 662 818 660" 
-                    HPOS="209"
-                    VPOS="631"
-                    WIDTH="609"
-                    HEIGHT="41">
-            <Shape><Polygon POINTS="209 631 818 631 818 672 209 672"/></Shape>
+                    HPOS="206"
+                    VPOS="623"
+                    WIDTH="611"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="781 624 718 623 696 627 628 627 623 623 601 623 594 626 207 623 206 680 225 683 237 673 311 683 442 673 470 685 528 685 541 674 570 680 581 673 612 673 629 685 668 685 690 673 725 673 746 683 815 680 817 658 814 627 781 624"/></Shape>
 	    <String CONTENT="de Caſtille, ſous le nom de Dom Sylve."
-                    HPOS="209"
-                    VPOS="631"
-                    WIDTH="609"
-                    HEIGHT="41"></String>
+                    HPOS="206"
+                    VPOS="623"
+                    WIDTH="611"
+                    HEIGHT="62"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_8"
-                    TAGREFS="LT124"
+                    TAGREFS="LT196"
                     BASELINE="108 715 121 715 416 713 439 719 571 715 618 714 708 714 816 718 916 712" 
-                    HPOS="108"
-                    VPOS="684"
+                    HPOS="106"
+                    VPOS="665"
                     WIDTH="808"
-                    HEIGHT="41">
-            <Shape><Polygon POINTS="108 684 916 684 916 725 108 725"/></Shape>
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="107 714 107 724 914 721 914 711 908 665 883 679 747 679 727 667 725 667 724 667 722 667 721 667 721 668 708 679 618 671 616 671 503 683 424 683 413 671 413 670 411 670 410 670 389 670 387 670 386 670 349 683 299 671 297 671 296 671 266 683 234 673 233 673 106 673 107 714"/></Shape>
 	    <String CONTENT="IGNES, Comteſſe, Amante de Dom Sylve, aimée"
-                    HPOS="108"
-                    VPOS="684"
+                    HPOS="106"
+                    VPOS="665"
                     WIDTH="808"
-                    HEIGHT="41"></String>
+                    HEIGHT="59"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_9"
-                    TAGREFS="LT124"
+                    TAGREFS="LT196"
                     BASELINE="210 764 256 753 428 758 608 754 654 754 748 755 795 754 891 752" 
-                    HPOS="210"
-                    VPOS="725"
-                    WIDTH="681"
-                    HEIGHT="41">
-            <Shape><Polygon POINTS="210 725 891 725 891 766 210 766"/></Shape>
-	    <String CONTENT="par Mauregat, Uſurpateur de l&#39;Etat de Leon."
-                    HPOS="210"
-                    VPOS="725"
-                    WIDTH="681"
-                    HEIGHT="41"></String>
+                    HPOS="207"
+                    VPOS="714"
+                    WIDTH="683"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="826 717 622 714 535 720 529 716 429 717 420 723 325 723 317 714 256 714 207 723 210 774 237 764 415 773 429 763 488 772 805 763 862 770 890 761 887 718 826 717"/></Shape>
+	    <String CONTENT="par Mauregat, Uſurpateur de l&#x27;Etat de Leon."
+                    HPOS="207"
+                    VPOS="714"
+                    WIDTH="683"
+                    HEIGHT="60"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_10"
-                    TAGREFS="LT124"
+                    TAGREFS="LT196"
                     BASELINE="110 810 137 810 190 809 499 808 537 809 582 809 696 813 805 809 918 806" 
-                    HPOS="110"
-                    VPOS="776"
-                    WIDTH="808"
-                    HEIGHT="37">
-            <Shape><Polygon POINTS="110 776 918 776 918 813 110 813"/></Shape>
-	    <String CONTENT="D. ALVAR, Confident de D. Garcie, Amant d&#39;Eliſe."
-                    HPOS="110"
-                    VPOS="776"
-                    WIDTH="808"
-                    HEIGHT="37"></String>
+                    HPOS="107"
+                    VPOS="761"
+                    WIDTH="810"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="109 808 109 819 914 822 917 805 913 761 635 770 609 761 607 761 606 761 604 761 573 770 541 761 539 761 538 761 536 761 531 761 455 770 407 761 402 761 401 761 396 761 340 772 323 764 321 764 272 763 271 763 269 763 268 763 259 770 177 763 175 763 174 763 157 772 150 764 150 763 148 763 147 763 107 763 109 808"/></Shape>
+	    <String CONTENT="D. ALVAR, Confident de D. Garcie, Amant d&#x27;Eliſe."
+                    HPOS="107"
+                    VPOS="761"
+                    WIDTH="810"
+                    HEIGHT="61"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_11"
-                    TAGREFS="LT124"
+                    TAGREFS="LT196"
                     BASELINE="108 861 136 861 184 861 386 860 752 867 917 856" 
-                    HPOS="108"
-                    VPOS="832"
-                    WIDTH="809"
-                    HEIGHT="35">
-            <Shape><Polygon POINTS="108 832 917 832 917 867 108 867"/></Shape>
+                    HPOS="106"
+                    VPOS="811"
+                    WIDTH="810"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="107 860 106 873 914 872 916 854 913 825 828 825 818 813 753 825 724 825 713 813 651 813 631 823 587 813 533 825 424 825 413 813 359 814 351 823 321 813 297 822 287 813 222 822 184 813 153 822 115 811 107 816 107 860"/></Shape>
 	    <String CONTENT="D. LOPE, autre Confident de D. Garcie, Amant re¬"
-                    HPOS="108"
-                    VPOS="832"
-                    WIDTH="809"
-                    HEIGHT="35"></String>
+                    HPOS="106"
+                    VPOS="811"
+                    WIDTH="810"
+                    HEIGHT="62"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_12"
-                    TAGREFS="LT124"
+                    TAGREFS="LT196"
                     BASELINE="210 900 275 900 397 901" 
-                    HPOS="210"
-                    VPOS="870"
-                    WIDTH="187"
-                    HEIGHT="31">
-            <Shape><Polygon POINTS="210 870 397 870 397 901 210 901"/></Shape>
-	    <String CONTENT="buté d&#39;Eliſe."
-                    HPOS="210"
-                    VPOS="870"
-                    WIDTH="187"
-                    HEIGHT="31"></String>
+                    HPOS="207"
+                    VPOS="860"
+                    WIDTH="189"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="386 860 371 860 356 860 342 860 327 860 312 860 297 860 283 860 268 860 253 860 238 860 224 860 209 860 209 898 207 911 395 907 396 900 395 860 386 860"/></Shape>
+	    <String CONTENT="buté d&#x27;Eliſe."
+                    HPOS="207"
+                    VPOS="860"
+                    WIDTH="189"
+                    HEIGHT="51"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_13"
-                    TAGREFS="LT124"
+                    TAGREFS="LT196"
                     BASELINE="110 954 148 953 184 954 252 953 450 956 579 957" 
-                    HPOS="110"
-                    VPOS="925"
-                    WIDTH="469"
-                    HEIGHT="44">
-            <Shape><Polygon POINTS="110 925 579 925 579 969 110 969"/></Shape>
+                    HPOS="107"
+                    VPOS="906"
+                    WIDTH="471"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="109 953 107 970 292 966 439 981 525 981 542 969 575 975 578 919 531 919 514 909 464 917 392 917 383 907 343 916 299 906 255 914 207 906 190 914 179 907 109 910 109 953"/></Shape>
 	    <String CONTENT="D. PEDRE, Ecuyer d’Ignes."
-                    HPOS="110"
-                    VPOS="925"
-                    WIDTH="469"
-                    HEIGHT="44"></String>
+                    HPOS="107"
+                    VPOS="906"
+                    WIDTH="471"
+                    HEIGHT="75"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_14"
-                    TAGREFS="LT124"
+                    TAGREFS="LT196"
                     BASELINE="210 1044 252 1042 350 1044 400 1044 482 1045 547 1046 580 1046 647 1052 733 1049 842 1047 916 1053" 
-                    HPOS="210"
-                    VPOS="1015"
-                    WIDTH="706"
-                    HEIGHT="45">
-            <Shape><Polygon POINTS="210 1015 916 1015 916 1060 210 1060"/></Shape>
-	    <String CONTENT="La Scene eſt dans Aſtorgue, Ville d&#39;Eſpagne,"
-                    HPOS="210"
-                    VPOS="1015"
-                    WIDTH="706"
-                    HEIGHT="45"></String>
+                    HPOS="207"
+                    VPOS="991"
+                    WIDTH="707"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="209 1043 207 1065 255 1065 274 1053 351 1053 362 1063 408 1054 418 1065 488 1054 508 1071 516 1071 538 1056 777 1074 827 1059 839 1071 911 1074 914 1051 913 1007 870 998 796 1007 778 995 718 995 690 1006 671 995 666 995 646 1006 619 994 585 1006 452 1003 443 993 371 1003 361 991 209 1000 209 1043"/></Shape>
+	    <String CONTENT="La Scene eſt dans Aſtorgue, Ville d&#x27;Eſpagne,"
+                    HPOS="207"
+                    VPOS="991"
+                    WIDTH="707"
+                    HEIGHT="83"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_15"
-                    TAGREFS="LT124"
+                    TAGREFS="LT196"
                     BASELINE="253 1078 324 1084 362 1085 506 1087 552 1088 647 1088" 
-                    HPOS="253"
-                    VPOS="1057"
-                    WIDTH="394"
-                    HEIGHT="38">
-            <Shape><Polygon POINTS="253 1057 647 1057 647 1095 253 1095"/></Shape>
+                    HPOS="250"
+                    VPOS="1043"
+                    WIDTH="396"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="401 1044 399 1044 364 1050 361 1050 359 1050 346 1043 340 1043 252 1047 252 1077 250 1110 305 1112 306 1112 308 1112 311 1110 345 1097 398 1110 420 1115 421 1115 423 1115 436 1110 461 1100 516 1109 519 1109 520 1109 522 1109 523 1109 551 1102 562 1109 573 1118 575 1118 576 1118 578 1118 644 1107 646 1087 644 1056 569 1047 567 1047 441 1051 421 1051 418 1051 402 1044 401 1044"/></Shape>
 	    <String CONTENT="dans le Royaume de Leon."
-                    HPOS="253"
-                    VPOS="1057"
-                    WIDTH="394"
-                    HEIGHT="38"></String>
+                    HPOS="250"
+                    VPOS="1043"
+                    WIDTH="396"
+                    HEIGHT="75"></String>
           </TextLine>
-
-          
         </TextBlock>
-        
-        <TextBlock HPOS="924"
-                   VPOS="220"
-                   WIDTH="51"
-                   HEIGHT="51"
+        <TextBlock HPOS="924.0"
+                   VPOS="220.0"
+                   WIDTH="51.0"
+                   HEIGHT="51.0"
                    ID="eSc_textblock_f4f32a8c"
-                   TAGREFS="BT331">
+                   TAGREFS="BT268">
           <Shape><Polygon POINTS="924 220 924 271 975 271 975 220"/></Shape>
-          
         </TextBlock>
-        
-
-        
       </PrintSpace>
     </Page>
   </Layout>
