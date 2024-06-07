@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>Corneille1664_Theatre_bpt6k10403751_corrected_0071.png</fileName>
     </sourceImageInformation>
   </Description>
-  
   <Tags>
-    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT169" LABEL="Damage" DESCRIPTION="block type Damage"/><OtherTag ID="BT170" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="BT171" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/><OtherTag ID="BT172" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT173" LABEL="Margin" DESCRIPTION="block type Margin"/><OtherTag ID="BT174" LABEL="MusicNotation" DESCRIPTION="block type MusicNotation"/><OtherTag ID="BT175" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT176" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT177" LABEL="Seal" DESCRIPTION="block type Seal"/><OtherTag ID="BT178" LABEL="Signatures" DESCRIPTION="block type Signatures"/><OtherTag ID="BT179" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT180" LABEL="Table" DESCRIPTION="block type Table"/>
-    <OtherTag ID="LT75" LABEL="Default" DESCRIPTION="line type Default"/><OtherTag ID="LT76" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT77" LABEL="Interlinear" DESCRIPTION="line type Interlinear"/><OtherTag ID="LT78" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT79" LABEL="Rubric" DESCRIPTION="line type Rubric"/>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT192" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT193" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="BT194" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT195" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT196" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT197" LABEL="Signatures" DESCRIPTION="block type Signatures"/><OtherTag ID="BT198" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/><OtherTag ID="BT199" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT200" LABEL="Damage" DESCRIPTION="block type Damage"/><OtherTag ID="BT201" LABEL="Margin" DESCRIPTION="block type Margin"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT180" LABEL="Default" DESCRIPTION="line type Default"/><OtherTag ID="LT181" LABEL="Rubric" DESCRIPTION="line type Rubric"/>
   </Tags>
-  
   <Layout>
     <Page WIDTH="4267"
           HEIGHT="6626"
@@ -23,53 +21,42 @@
                   VPOS="0"
                   WIDTH="4267"
                   HEIGHT="6626">
-        
-        <TextBlock HPOS="380"
-                   VPOS="2424"
-                   WIDTH="3030"
-                   HEIGHT="1052"
+        <TextBlock HPOS="380.0"
+                   VPOS="2424.0"
+                   WIDTH="3030.0"
+                   HEIGHT="1052.0"
                    ID="eSc_textblock_4cdf3714"
-                   TAGREFS="BT1">
+                   TAGREFS="BT192">
           <Shape><Polygon POINTS="380 2424 380 3476 3410 3476 3410 2424"/></Shape>
-          
-          
           <TextLine ID="tl_1"
-                    TAGREFS="LT75"
+                    TAGREFS="LT180"
                     BASELINE="446 2871 835 2871 1330 2862 1834 2856 2194 2849 2730 2845 3322 2841" 
-                    HPOS="446"
-                    VPOS="2505"
-                    WIDTH="2876"
-                    HEIGHT="374">
-            <Shape><Polygon POINTS="446 2505 3322 2505 3322 2879 446 2879"/></Shape>
+                    HPOS="436"
+                    VPOS="2440"
+                    WIDTH="2885"
+                    HEIGHT="480">
+            <Shape><Polygon POINTS="442 2865 442 2909 1182 2915 1227 2909 1326 2887 1359 2915 1370 2915 1376 2920 1636 2920 1636 2915 1669 2904 1718 2882 1752 2909 1774 2909 1879 2882 2155 2904 2282 2909 2901 2871 3310 2893 3321 2838 3316 2484 3200 2440 2973 2440 2835 2523 2769 2484 2735 2468 2393 2446 2393 2451 2332 2512 2232 2523 2089 2451 2067 2451 2067 2457 2028 2490 1989 2534 1746 2534 1669 2490 1624 2468 1608 2468 1536 2490 1414 2534 1265 2468 1254 2468 1044 2484 1044 2490 1033 2495 983 2545 862 2545 773 2473 746 2473 679 2517 436 2501 442 2865"/></Shape>
 	    <String CONTENT="MELITE,"
-                    HPOS="446"
-                    VPOS="2505"
-                    WIDTH="2876"
-                    HEIGHT="374"></String>
+                    HPOS="436"
+                    VPOS="2440"
+                    WIDTH="2885"
+                    HEIGHT="480"></String>
           </TextLine>
-
-          
-          
           <TextLine ID="tl_2"
-                    TAGREFS="LT75"
+                    TAGREFS="LT180"
                     BASELINE="878 3329 2888 3287" 
-                    HPOS="878"
-                    VPOS="3103"
-                    WIDTH="2011"
-                    HEIGHT="242">
-            <Shape><Polygon POINTS="878 3103 2889 3103 2889 3345 878 3345"/></Shape>
+                    HPOS="867"
+                    VPOS="3036"
+                    WIDTH="2018"
+                    HEIGHT="387">
+            <Shape><Polygon POINTS="873 3324 873 3384 1442 3379 1453 3384 1481 3412 1481 3417 1492 3417 1497 3423 1669 3423 1669 3417 1818 3368 1951 3412 1973 3412 2050 3362 2216 3406 2420 3401 2498 3357 2564 3401 2885 3368 2885 3285 2874 3047 2642 3036 2553 3059 2448 3081 2310 3064 2188 3053 2144 3070 2116 3086 2089 3075 2039 3047 2028 3047 1724 3059 1652 3092 1636 3092 1558 3059 1542 3059 1431 3103 1254 3064 1243 3064 1149 3108 1138 3108 972 3070 961 3070 867 3108 873 3324"/></Shape>
 	    <String CONTENT="COMEDIE."
-                    HPOS="878"
-                    VPOS="3103"
-                    WIDTH="2011"
-                    HEIGHT="242"></String>
+                    HPOS="867"
+                    VPOS="3036"
+                    WIDTH="2018"
+                    HEIGHT="387"></String>
           </TextLine>
-
-          
         </TextBlock>
-        
-
-        
       </PrintSpace>
     </Page>
   </Layout>
